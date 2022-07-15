@@ -1,0 +1,5 @@
+.App__Body {
+    background-image: url(/assets/gradient.jpg);
+    background-position: center;
+    background-size: cover;
+}
