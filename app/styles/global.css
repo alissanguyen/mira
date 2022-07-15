@@ -3,3 +3,8 @@
     background-position: center;
     background-size: cover;
 }
+
+code {
+    font-size: 15px;
+    margin-left: 2px;
+}
